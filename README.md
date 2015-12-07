@@ -1,6 +1,9 @@
 # LasercutterPraxis
 
+![alt tag](https://github.com/heise/LasercutterPraxis/blob/master/schwibbogen_small.JPG)
+
 **Vorlagen und Beispiele aus Make: 6/2015**
+
 
 Schwibbogen-Vorlage von SvenS, **[Thingiverse Thing 38329](http://www.thingiverse.com/thing:38329)**. Dateien:
 
